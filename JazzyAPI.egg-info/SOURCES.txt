@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+JazzyAPI.egg-info/PKG-INFO
+JazzyAPI.egg-info/SOURCES.txt
+JazzyAPI.egg-info/dependency_links.txt
+JazzyAPI.egg-info/top_level.txt
+env/__init__.py
