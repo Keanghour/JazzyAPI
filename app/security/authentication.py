@@ -1,0 +1,1 @@
+# Authentication logic (e.g., user login, OAuth)

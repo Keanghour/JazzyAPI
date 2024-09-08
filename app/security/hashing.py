@@ -1,0 +1,1 @@
+# Hashing algorithms (e.g., bcrypt, SHA256)

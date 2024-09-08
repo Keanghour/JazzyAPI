@@ -25,10 +25,12 @@ The project directory is organized as follows:
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
-
+bash
+```
+   git clone https://github.com/Keanghour/JazzyAPI
+```
+   
 2. **Create and activate a virtual environment (optional but recommended):**
 
 python -m venv venv
@@ -57,7 +59,7 @@ pip install <package_name>
 pip freeze > requirements.txt
 
 
----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 
 ### How to Use This `README.md`
