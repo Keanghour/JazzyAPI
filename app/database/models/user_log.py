@@ -15,3 +15,6 @@ class UserLog(Base):
 
     # Relationship back to User
     user = relationship("User", back_populates="logs")
+
+
+
